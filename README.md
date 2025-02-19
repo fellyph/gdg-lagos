@@ -1,3 +1,3 @@
 # gdg-lagos
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/fellyph/gdg-lagos)
+This repository is responsible to build the website for the GDG Lagos portugal
